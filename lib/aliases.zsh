@@ -15,5 +15,10 @@ alias please='sudo'
 # Show history
 alias history='fc -l 1'
 
-alias afind='ack-grep -il'
+# List direcory contents
+alias lsa='ls -lah'
+alias l='ls -lah'
+alias ll='ls -lh'
+alias la='ls -lAh'
 
+alias afind='ack-grep -il'
